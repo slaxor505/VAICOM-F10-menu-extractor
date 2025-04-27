@@ -1,8 +1,8 @@
 # VAICOM F10 Menu Extractor Project
 
 ## How to use:
-- Drop exe file into VIACOM Export folder
-- Export keywords files as per usual from VIACOM UI. "EXPORT" button.\
+- Drop exe file into VAICOM Export folder
+- Export keywords files as per usual from VAICOM UI. "EXPORT" button.\
 - Run the exe file - it will copy required keywords string for Voice Attack profile update.
 - Update Voice Attack profile with the copied string as per usual.
 
