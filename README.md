@@ -1,4 +1,4 @@
-# VIACOM F10 Menu Extractor Project
+# VAICOM F10 Menu Extractor Project
 
 ## How to use:
 - Drop exe file into VIACOM Export folder
